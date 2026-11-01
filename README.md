@@ -18,7 +18,7 @@ The legend below shows the semantic part labels and colors used in the reconstru
 
 ## 360-degree scene preview
 
-The GIF rotates the reconstructed voxel scene to show its structure from all directions.
+This slow, 9-second rotation shows the reconstructed voxel scene from all directions.
 
 <p align="center">
   <img src="assets/009_rotation.gif" alt="360-degree rotation of the reconstructed voxel scene" width="560">
