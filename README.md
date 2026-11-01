@@ -16,7 +16,13 @@ The legend below shows the semantic part labels and colors used in the reconstru
   <img src="assets/009_part_legend.png" alt="Semantic part legend for the reconstructed scene" width="100%">
 </p>
 
-A rotating multi-view GIF to show scene quality from all directions is planned.
+## 360-degree scene preview
+
+The GIF rotates the reconstructed voxel scene to show its structure from all directions.
+
+<p align="center">
+  <img src="assets/009_rotation.gif" alt="360-degree rotation of the reconstructed voxel scene" width="560">
+</p>
 
 ## Repository status
 
