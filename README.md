@@ -8,6 +8,16 @@
 
 ScenePart3D generates a structured, part-aware 3D scene from a single 2D image. The example above shows the input drawing alongside a voxel rendering of the resulting scene. The animation previews semantic motion applied to its parts.
 
+## Fine-grained scene visualization
+
+The legend below shows the semantic part labels and colors used in the reconstructed scene.
+
+<p align="center">
+  <img src="assets/009_part_legend.png" alt="Semantic part legend for the reconstructed scene" width="100%">
+</p>
+
+A rotating multi-view GIF to show scene quality from all directions is planned.
+
 ## Repository status
 
 We are organizing the code, documentation, and examples for release.
